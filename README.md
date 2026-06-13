@@ -1,5 +1,5 @@
 # Hi, I'm Musaddik Choudhury 👋
-## Full-Stack AI Developer · CS Student @ CUNY BMCC · Phi Theta Kappa
+## Full-Stack AI Developer · CS Student @ CUNY BMCC · NYC Tech Talent Pipeline SWE Resident · Phi Theta Kappa 
 
 I build and ship **production AI systems** — from real-time voice interfaces to adaptive learning engines to civic tech platforms. I specialize in LLM integration, full-stack development, and turning complex AI capabilities into polished, deployed products.
 
@@ -40,7 +40,7 @@ Full-stack AI platform matching CUNY students to $63,000+ in financial aid using
 ### 📈 Academic
 
 - 🎓 **A.S. Computer Science** — BMCC, CUNY (Expected Dec 2026)
-- 📊 **GPA:** 4.00 / 4.00
+- 📊 **GPA:** 3.67 / 4.00
 - 🏛 **Phi Theta Kappa** International Honor Society
 - 📚 **Coursework:** Advanced C++, Data Structures, Discrete Mathematics, Calculus II
 
