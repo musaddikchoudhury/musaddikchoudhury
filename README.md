@@ -40,7 +40,7 @@ Full-stack AI platform matching CUNY students to $63,000+ in financial aid using
 ### 📈 Academic
 
 - 🎓 **A.S. Computer Science** — BMCC, CUNY (Expected Dec 2026)
-- 📊 **GPA:** 3.67 / 4.00
+- 📊 **GPA:** 3.76 / 4.00
 - 🏛 **Phi Theta Kappa** International Honor Society
 - 📚 **Coursework:** Advanced C++, Data Structures, Discrete Mathematics, Calculus II
 
